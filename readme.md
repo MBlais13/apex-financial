@@ -50,10 +50,10 @@
 
 - Just, visit our website and create an account - 
 
-<a href="http://apexbank.tk" target="_blank"><img src="https://img.shields.io/badge/Visit Website-1C1E23?style=for-the-badge&logo="></a>
+<a href="https://apexbank.tk" target="_blank"><img src="https://img.shields.io/badge/Visit Website-1C1E23?style=for-the-badge&logo="></a>
 
 ```
-http://apexbank.tk
+https://apexbank.tk
 ```
 
 # <!--used as a divider -->
