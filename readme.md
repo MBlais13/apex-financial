@@ -1,8 +1,8 @@
 <h3><p align="center">First and foremost: Apex isn't an actual banking app</p></h2>
 
 
-<a href="http://apexbank.tk"><p align="center">
-  <img src="https://i.imgur.com/5IG1VF3.png">
+<a href="https://apexbank.tk"><p align="center">
+  <img href="https://apexbank.tk" src="https://i.imgur.com/5IG1VF3.png">
 </p></a>
 
 <p align="center">
