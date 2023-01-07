@@ -24,6 +24,7 @@
 
 <h1><p align="center">Apex Financial</p></h1>
 
+
 <p align="center">Apex financial is a state-of-the-art banking app made for those wanting cutting edge technologies and a privacy policy that protects <b>you</b>.</p>
 
 
@@ -52,6 +53,21 @@
 ```
 https://apexbank.tk
 ```
+
+# <!--used as a divider -->
+
+## Installing
+
+Apex is a banking management system in python using django framework
+
+### **Admin Access**
+- **Email:** admin@mail.com
+- **Password:** admin123
+
+### **Instructions**
+- Install the Requirements: pip install -r requirements.txt
+- python manage.py migrate
+- And finally, run the application: python manage.py runserver
 
 # <!--used as a divider -->
 
