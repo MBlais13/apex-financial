@@ -61,6 +61,7 @@ https://apexbank.tk
 Apex is a banking management system in python using django framework
 
 ### **Admin Access**
+- **GOTO** http://localhost:8000/admin/
 - **Email:** admin@mail.com
 - **Password:** admin123
 

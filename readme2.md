@@ -1,7 +1,7 @@
 # **Banking Management System in Python using Django Framework **
 
 ==============================================================================================
-## **Origianl Version Information**
+## **Original Version Information**
 - **Developed by:** Evan Brundritt & Michael Blais
 - **Download From:** [https://github.com/add-url-here](Github)
 ==============================================================================================
@@ -9,6 +9,7 @@
 
 ==============================================================================================
 ## **Admin Access**
+- **GOTO** http://localhost:8000/admin
 - **Email:** admin@mail.com
 - **Password:** admin123
 ==============================================================================================
